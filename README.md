@@ -11,7 +11,9 @@ The project includes:
 - Backend API using FastAPI
 - Frontend dashboard for predictions
 - Tableau dashboard for interactive business visualization
+## Tableau Dashboard
 
+Live Dashboard: [View on Tableau Public](https://public.tableau.com/shared/RSKG48GG8?:display_count=n&:origin=viz_share_link)
 ---
 
 ## Problem Statement
